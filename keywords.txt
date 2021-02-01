@@ -1,0 +1,48 @@
+#######################################
+
+# Syntax Coloring Map For Keypad
+
+####################################### 
+
+# Class (KEYWORD1)
+
+#######################################
+
+
+Keypad	KEYWORD1
+Keypad4x4	KEYWORD1
+
+
+#######################################
+
+# Methods and Functions (KEYWORD2)
+
+#######################################	
+
+
+setKeypad	KEYWORD2
+getKey	KEYWORD2
+getKeyState	KEYWORD2
+
+
+#######################################
+
+# Instances (KEYWORD2)
+
+#######################################	
+
+
+key	KEYWORD2
+keypad	KEYWORD2
+
+
+#######################################
+
+# Constants (LITERAL1)
+
+#######################################
+ 
+
+HOLDED	LITERAL1
+PRESSED	LITERAL1
+NO_KEY_PRESSED  LITERAL1
